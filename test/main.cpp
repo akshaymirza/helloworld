@@ -13,7 +13,7 @@ for(int i=1; i<=siswa; i++){
 	cout <<"\Masukan nilai untuk siswa ke-"<< i << endl;
 	
 	cout <"<mtk";
-	cin >>mtk;
+	cin >>mtk;x
 	
 	cout<<"ppkn";
 	cin>>ppkn;
